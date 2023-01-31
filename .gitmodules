@@ -1,0 +1,24 @@
+[submodule "cmdline"]
+	path = cmdline
+	url = ./cmdline
+[submodule "commaSeparate"]
+	path = commaSeparate
+	url = ./commaSeparate/
+[submodule "environment"]
+	path = environment
+	url = ./environment/
+[submodule "factorial"]
+	path = factorial
+	url = ./factorial
+[submodule "hello"]
+	path = hello
+	url = ./hello
+[submodule "hhmmss"]
+	path = hhmmss
+	url = ./hhmmss/
+[submodule "uname"]
+	path = uname
+	url = ./uname
+[submodule "minmax"]
+	path = minmax
+	url = ./minmax
